@@ -1,6 +1,7 @@
 ---
   tags: recursion
   languages: ruby
+  resources: 4
 ---
 
 # Towers of Hanoi
@@ -85,3 +86,9 @@ end
 # here we go!
 puts move_disk(4, a, c, b)
 ```
+
+## Resources
+* [MIT](http://blossoms.mit.edu/videos) - [Towers of Hanoi Recursion video](http://blossoms.mit.edu/videos/files/english/towers_hanoi_experiential_recursive_thinking_english_flash)
+* [Wikipedia](https://www.wikipedia.org/) - [Towers of Hanoi](http://en.wikipedia.org/wiki/Tower_of_Hanoi)
+* [Ana's Blog](http://anabecker.tumblr.com/) - [Ways We Tried to Solve the Hanoi Tower Problem](http://anabecker.tumblr.com/post/43500989356/ways-we-tried-to-solve-the-hanoi-tower-problem)
+* [Chris Lee's Blog](http://clee681.github.io/blog/) - [Recursion Towers of Hanoi](http://clee681.github.io/blog/2013/10/14/recursion-towers-of-hanoi/)
