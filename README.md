@@ -89,4 +89,4 @@ puts move_disk(4, a, c, b)
 * [Ana's Blog](http://anabecker.tumblr.com/) - [Ways We Tried to Solve the Hanoi Tower Problem](http://anabecker.tumblr.com/post/43500989356/ways-we-tried-to-solve-the-hanoi-tower-problem)
 * [Chris Lee's Blog](http://clee681.github.io/blog/) - [Recursion Towers of Hanoi](http://clee681.github.io/blog/2013/10/14/recursion-towers-of-hanoi/)
 
-<a href='https://learn.co/lessons/towers-of-hanoi' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/towers-of-hanoi' title='Towers of Hanoi'>Towers of Hanoi</a> on Learn.co and start learning to code for free.</p>
